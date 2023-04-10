@@ -14,3 +14,5 @@ Once the program is launched, you will be prompted to enter your admin username 
 
 Once you have logged in, you will be presented with a menu that allows you to manage stock items, record purchases, and view reports. Simply select the appropriate option to perform the desired action.
 
+# Demonstration 
+https://user-images.githubusercontent.com/98769025/230970717-201339bc-afe8-4a16-aef4-15ba164a35a7.mp4
